@@ -1,0 +1,18 @@
+Software Engineer — Backend (New Grad)
+TechCorp Inc.
+
+We are looking for a backend software engineer to join our platform team.
+
+Requirements:
+- Proficiency in Python or Go
+- Experience with REST APIs and microservices
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Strong understanding of data structures and algorithms
+- Experience with Docker and Kubernetes is a plus
+- Good communication and collaboration skills
+
+Responsibilities:
+- Design and build scalable backend services
+- Write clean, well-tested code
+- Collaborate with cross-functional teams
+- Participate in code reviews
